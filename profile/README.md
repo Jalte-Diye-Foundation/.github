@@ -1,12 +1,8 @@
 # Jalte Diye Foundation
 
-<<<<<<< Updated upstream
-<img width="1280" height="640" alt="Jalte Diye Foundation" src="https://github.com/user-attachments/assets/17b66db0-287a-410f-8322-079a46075643" />
-=======
 <img width="1280" height="640" alt="ChatGPT Image Jun 23, 2026, 09_47_39 PM" src="https://github.com/user-attachments/assets/17b66db0-287a-410f-8322-079a46075643" />
 
 **Lighting lives through knowledge, technology, and community action.**
->>>>>>> Stashed changes
 
 ## Global Peace through Social Education
 
